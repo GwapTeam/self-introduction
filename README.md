@@ -27,7 +27,7 @@ $ git clone -b master --recursive -j8 git@github.com:GwapTeam/self-introduction.
 
 _Branch: `development`_
 ```bash
-$ git clone -b development --recursive -j8 git@github.com:GwapTeam/self-introduction.git
+$ git clone -b develop --recursive -j8 git@github.com:GwapTeam/self-introduction.git
 ```
 
 _Branch: `feature`_
@@ -103,7 +103,7 @@ Tab Space         : 4space
 
 Use [ECMAScript5](https://www.ecma-international.org/ecma-262/6.0/)
 
-Tab Space     : 2space
+Tab Space     : 4space
 String literal: double quote
 
 Case: Variable declaration
