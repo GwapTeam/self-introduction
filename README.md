@@ -8,6 +8,11 @@ Open html file using chrome.
 ### files
 ```
 self-introduction
+├── README.md
+├── complete-self-introduction.html(Finished code)
+├── extra-self-introduction.html(Extra code)
+├── img/
+└── self-introduction.html(First code)
 ```
 
 ### submodule
