@@ -1,4 +1,4 @@
-# typing-game
+# self-introduction
 https://github.com/GwapTeam/self-introduction
 
 ## Overview
