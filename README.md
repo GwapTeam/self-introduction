@@ -6,3 +6,4 @@ gakken educational self-introduction texts
 Open html file using chrome.
 
 Manual: (GwapTeam/manual)[https://github.com/GwapTeam/manual]
+
